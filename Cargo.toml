@@ -1,0 +1,6 @@
+﻿[package]
+name = "algofeed-gate"
+version = "1.0.0"
+edition = "2021"
+
+[dependencies]
